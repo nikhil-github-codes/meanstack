@@ -1,0 +1,109 @@
+.banner-area
+{
+   background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('../../../assets/img/banner-image.jpg');
+   height: 780px;
+   width: 100%;
+   background-position: center top;
+   background-size: cover;
+}
+
+.content-area
+{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content
+{
+    text-align: center;
+
+}
+.content h1
+{
+    color:#fff;
+    font-size: 63px;
+    font-weight: bold;
+}
+
+.content p
+{
+    color: #fff;
+    font-size: 18.5px;
+}
+
+/*-------main------area------*/
+
+.container-area
+{
+    background: #f7f9fb;
+    border-top: 1px solid #dbdee5;
+    border-bottom: 1px solid #dbdee5;
+    padding: 8rem;
+    justify-content: center;
+    
+}
+
+.heading
+{
+    font-style: oblique;
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.para
+{
+    font-size: 1,130rem;
+    letter-spacing: normal;
+}
+
+
+/*-----lower-area----*/
+
+
+
+
+.lower-area
+{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    text-align: center;
+}
+
+.lower-content h2
+{
+    display: block;
+    font-size: 2.9rem;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: #111111;
+}
+
+.lower-content p
+{
+    margin-top: -1%;
+    color: black;
+}
+
+
+
+
+
+
+    
+    
+
+   

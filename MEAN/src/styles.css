@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root
+{
+    --primary-color:#0aa3f3;
+}
+
+
+
+body
+{
+   font-family: Arial, Helvetica, sans-serif;
+   height: 100vh;
+   
+   
+}
+
+
